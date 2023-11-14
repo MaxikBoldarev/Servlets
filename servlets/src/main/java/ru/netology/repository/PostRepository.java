@@ -7,8 +7,7 @@ import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicLong;
 
-// Stub
-@Repository
+
 public class PostRepository {
 
     private static final AtomicLong postCounter = new AtomicLong(0);
